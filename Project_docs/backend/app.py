@@ -123,7 +123,6 @@ def upload_file():
             content = page.extract_text()
             if content:
                 raw_text += content
-                break
 
         cassio.init(token=ASTRA_DB_APPLICATION_TOKEN, database_id=ASTRA_DB_ID)
         llm = OpenAI(openai_api_key=OPENAI_API_KEY)
