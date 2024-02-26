@@ -18,6 +18,6 @@ For obtaining the context related information from the external sources, we can 
 
 Best definition out there: Retrieval-Augmented Generation (RAG) is a technology that enhances the capabilities of Large Language Models (LLMs) by incorporating retrieval mechanisms to access external knowledge sources during the generation of responses.
 
-!https://github.com/Abhijithreddydasari/RAG-based-search-tool/blob/main/Project_docs/Workflow.png
+![image](https://github.com/Abhijithreddydasari/RAG-based-search-tool/blob/main/Project_docs/Workflow.png)
 
 ### Working:
