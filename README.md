@@ -22,5 +22,5 @@ Best definition out there: Retrieval-Augmented Generation (RAG) is a technology 
 
 
 ### Working:
-![](https://github.com/Abhijithreddydasari/RAG-based-search-tool/blob/main/Project_docs/Workflow.png)
+![](https://github.com/Abhijithreddydasari/RAG-based-search-tool/blob/main/Project_docs/Workflow.png) <br>
 In the image above, the query is fed to the retrieval model which search the knowledge base for relevant docs and then send both the query and docs to the LLM, which then generates the response.
