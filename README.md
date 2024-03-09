@@ -66,9 +66,11 @@ In the image above, the query is fed to the retrieval model which search the kno
 
 ## **Usage**
 
-I will soon post a description that properly exaplins the workflow of the code and how to locally install it and use it for your projects or any other activity.
-Till then watch this video which explains my project in brief with code and includes testing of the code too!
+I will soon post a description that properly explains the workflow of the code and how to locally install it and use it for your projects or any other activity.
+Till then, watch the following video which explains the project in brief along with execution of the code!
+<br>
 Video Link: https://drive.google.com/file/d/1CSs2x4dIIl0aYeQLFs_P8MGFwVwI3tMI/view?usp=sharing
+<br> <br>
 Thank you for reading this far! I hope I made you learn something new today. If you want to suggest any changes or add exciting features, please feel free to submit pull requests.
 
 Thank you!! 😀
